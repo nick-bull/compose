@@ -1,5 +1,7 @@
 Composes functions
 
+This package has been **deprecated** as it is part of [`functional-utils`](https://github.com/nick-bull/functional-utils)
+
 ## Installation
 
 ```
